@@ -1,1 +1,36 @@
 
+# This is a gitignore file.
+# It tells git to ignore certain files and directories.
+# I use them a lot to prevent git from tracking object files and executables
+# when writing C/C++ code.
+
+# In the ug-pi repo, we ignore files created by ROS2 and colcon.
+
+# Some examples:
+# To ignore a file, add a line with the file's name:
+filename
+
+# For directories, add a line with the directory's name followed by a slash.
+directory/
+
+# By using wildcards, all files with a certain extension can be ignored:
+*.ext
+
+# Or all files in a directory:
+directory/*
+
+# Use a bang (!) to unignore a file or directory:
+!filename
+!directory/
+
+
+# If git is already tracking a file, it will continue to track it even if it
+# is added to the .gitignore file. To stop tracking a file, we need to remove
+# it from the repository with `git rm --cached filename`.
+# Note that this will not delete the file from your system.
+
+# For more information, see
+# https://git-scm.com/docs/gitignore.
+
+# Or look at templates at
+# https://github.com/github/gitignore
