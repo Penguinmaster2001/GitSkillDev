@@ -1,6 +1,4 @@
-# Git Skill Dev
-
-<br>
+# Git Skill Dev  
 
 ## Goals
 
@@ -10,9 +8,7 @@
 
 3. Make changes on a new branch.
 
-4. Push changes back to the GitHub repository.
-
-<br>
+4. Push changes back to the GitHub repository.  
 
 ## Instructions
 
@@ -23,9 +19,7 @@ look at the files (including the hidden ones!).
 
 3. Use commands to read `instructions.txt`.
 
-4. When you're done, push the changes to the GitHub repository.
-
-<br>
+4. When you're done, push the changes to the GitHub repository.  
 
 ## Hints
 
@@ -39,9 +33,7 @@ to download this repository.
 3. Both `vim [path to file]` and `cat [path to file]` will display the\
 contents of plaintext files.
 
-4. Use `git push` to push changes to the GitHub repo.
-
-<br>
+4. Use `git push` to push changes to the GitHub repo.  
 
 ---
 
