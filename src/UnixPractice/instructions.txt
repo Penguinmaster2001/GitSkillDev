@@ -2,6 +2,7 @@
 Activities
 Do whichever you want
 
+Make a directory for yourself first
 
 Writing Stuff to the Terminal
 1. Read the man page for a command
