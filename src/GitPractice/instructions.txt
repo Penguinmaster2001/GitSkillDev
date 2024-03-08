@@ -1,0 +1,32 @@
+
+INSTRUCTIONS
+
+1. Run "git status" Any changes you've made will be reported there
+
+2. Stage all the changes you've made with "git add -A"
+    You shouldn't do stuff like this on a real project because
+    we usually want to be really intentional with commits
+
+3. commit your changes, remember to use conventional commits
+    (this can be a feat or test)
+
+4. Make a directory for yourself
+
+5. Write a Python script, commit your changes after each function you write
+    Some easy quick ideas:
+        Print your name
+        nth Fibbonacci number
+        ascii art tree
+    
+    If you need a text editor, Nano, Vi, or Vim should be installed
+    Nano is the easiest, "nano myScript.py"
+    Don't use Vi or Vim unless you know how to already
+    If you get trapped in Vi or Vim,
+    exit by typing this sequence: esc, :, q, !, enter
+
+    You can test your script with the python3 command
+    "python3 myScript.py"
+
+6. When you're done, push your changes to the GitHub repo
+
+7. Try pulling other's changes from the remote repo and looking through them!
