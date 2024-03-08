@@ -12,6 +12,10 @@ INSTRUCTIONS
 
 5. Read `UnixPractice/instructions.txt`.
 
+Note: If you're already familiar with bash or you want to focus on Git,
+    read to GitPractice/instructions.txt instead.
+    You can do this with a GUI and / or on Windows if you want
+
 
 HINTS
 
