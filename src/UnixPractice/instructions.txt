@@ -1,0 +1,44 @@
+
+Activities
+Do whichever you want
+
+Make a directory for yourself first
+
+Writing Stuff to the Terminal
+1. Read the man page for a command
+
+2. Print 'Hello, World!' to the terminal, note the single quotes
+
+3. Use the clear command to clean up
+
+4. Use cat to print the contents of a file
+
+5. In the root of this repo, use ls -aR to see all of the files in it
+6. Use ls -alRF to get even more information
+7. Identify the permissions of some of the files
+
+
+File System
+1. Make a bunch of directories
+2. Make and then delete some files
+3. Move files around the directories you made
+
+4. Write
+        #! /bin/bash
+        echo hello
+        cat ../*
+    to a file, make it executable with chmod, and run it with "./filename"
+
+
+Piping and Redirection
+1. Use commands to write the username to a file
+2. Append the date to that file
+
+3. Use cat, grep, and wc, to count how many lines in lorem.txt contain "lorem"
+
+4. Write all the lines in a manpage of a command use the word "do", or that start with a "-"
+
+5. Write the output of ls -alRF from the repo root to a file in this directory
+
+
+When you're done here, go to ../src/GitPractice/
