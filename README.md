@@ -30,10 +30,18 @@ to download this repository.
 
 2. Use `cd` to change directories and `ls` or `ls -A` to list files.
 
-3. Both `vim [path to file]` and `cat [path to file]` will display the\
+3. Both `nano [path to file]` and `cat [path to file]` will display the\
 contents of plaintext files.
 
 4. Use `git push` to push changes to the GitHub repo.  
+
+## Docker Container
+
+1. Move to the directory with `Dockerfile`
+2. Run `docker build -t ug:practice .`
+3. Wait for it to build (about 20-60 seconds)
+4. Run `docker run -it ug:practice bash`
+5. `exit` command to exit
 
 ---
 
