@@ -2,6 +2,7 @@
 Activities
 Do whichever you want
 
+
 Writing Stuff to the Terminal
 1. Read the man page for a command
 
@@ -37,3 +38,6 @@ Piping and Redirection
 4. Write all the lines in a manpage of a command use the word "do", or that start with a "-"
 
 5. Write the output of ls -alRF from the repo root to a file in this directory
+
+
+When you're done here, go to ../src/GitPractice/
