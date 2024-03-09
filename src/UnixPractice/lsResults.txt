@@ -1,0 +1,174 @@
+.:
+total 182
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:55 ./
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:49 ../
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:51 .git/
+-rw-r--r-- 1 SR 197121 1064 Mar  8 17:49 .gitignore
+-rw-r--r-- 1 SR 197121  563 Mar  8 17:49 .secrets
+-rw-r--r-- 1 SR 197121  491 Mar  8 17:49 Dockerfile
+-rw-r--r-- 1 SR 197121 1224 Mar  8 17:49 README.md
+-rw-r--r-- 1 SR 197121 1090 Mar  8 17:49 instructions.txt
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:56 ran2/
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:56 random1/
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:49 src/
+
+./.git:
+total 20
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:51 ./
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:55 ../
+-rw-r--r-- 1 SR 197121  34 Mar  8 17:51 HEAD
+-rw-r--r-- 1 SR 197121 311 Mar  8 17:49 config
+-rw-r--r-- 1 SR 197121  73 Mar  8 17:49 description
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 hooks/
+-rw-r--r-- 1 SR 197121 838 Mar  8 17:51 index
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 info/
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 logs/
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 objects/
+-rw-r--r-- 1 SR 197121 185 Mar  8 17:49 packed-refs
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 refs/
+
+./.git/hooks:
+total 53
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:51 ../
+-rwxr-xr-x 1 SR 197121  478 Mar  8 17:49 applypatch-msg.sample*
+-rwxr-xr-x 1 SR 197121  896 Mar  8 17:49 commit-msg.sample*
+-rwxr-xr-x 1 SR 197121 4655 Mar  8 17:49 fsmonitor-watchman.sample*
+-rwxr-xr-x 1 SR 197121  189 Mar  8 17:49 post-update.sample*
+-rwxr-xr-x 1 SR 197121  424 Mar  8 17:49 pre-applypatch.sample*
+-rwxr-xr-x 1 SR 197121 1643 Mar  8 17:49 pre-commit.sample*
+-rwxr-xr-x 1 SR 197121  416 Mar  8 17:49 pre-merge-commit.sample*
+-rwxr-xr-x 1 SR 197121 1374 Mar  8 17:49 pre-push.sample*
+-rwxr-xr-x 1 SR 197121 4898 Mar  8 17:49 pre-rebase.sample*
+-rwxr-xr-x 1 SR 197121  544 Mar  8 17:49 pre-receive.sample*
+-rwxr-xr-x 1 SR 197121 1492 Mar  8 17:49 prepare-commit-msg.sample*
+-rwxr-xr-x 1 SR 197121 2783 Mar  8 17:49 push-to-checkout.sample*
+-rwxr-xr-x 1 SR 197121 3650 Mar  8 17:49 update.sample*
+
+./.git/info:
+total 5
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:51 ../
+-rw-r--r-- 1 SR 197121 240 Mar  8 17:49 exclude
+
+./.git/logs:
+total 5
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:51 ../
+-rw-r--r-- 1 SR 197121 546 Mar  8 17:51 HEAD
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 refs/
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ../
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:51 heads/
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 remotes/
+
+./.git/logs/refs/heads:
+total 3
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:51 ./
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 ../
+-rw-r--r-- 1 SR 197121 199 Mar  8 17:49 main
+-rw-r--r-- 1 SR 197121 158 Mar  8 17:51 sophieGitPractice
+-rw-r--r-- 1 SR 197121 160 Mar  8 17:50 sr
+
+./.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ../
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 origin/
+
+./.git/logs/refs/remotes/origin:
+total 1
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121   0 Mar  8 17:49 ../
+-rw-r--r-- 1 SR 197121 199 Mar  8 17:49 HEAD
+
+./.git/objects:
+total 8
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:51 ../
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 info/
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 pack/
+
+./.git/objects/info:
+total 0
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ../
+
+./.git/objects/pack:
+total 20
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:49 ../
+-r--r--r-- 1 SR 197121 2584 Mar  8 17:49 pack-ad3cd3e31307cb9ac5f9630b70c98d3f29188319.idx
+-r--r--r-- 1 SR 197121 9607 Mar  8 17:49 pack-ad3cd3e31307cb9ac5f9630b70c98d3f29188319.pack
+
+./.git/refs:
+total 4
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:51 ../
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:51 heads/
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 remotes/
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 tags/
+
+./.git/refs/heads:
+total 3
+drwxr-xr-x 1 SR 197121  0 Mar  8 17:51 ./
+drwxr-xr-x 1 SR 197121  0 Mar  8 17:49 ../
+-rw-r--r-- 1 SR 197121 41 Mar  8 17:49 main
+-rw-r--r-- 1 SR 197121 41 Mar  8 17:51 sophieGitPractice
+-rw-r--r-- 1 SR 197121 41 Mar  8 17:50 sr
+
+./.git/refs/remotes:
+total 0
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ../
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 origin/
+
+./.git/refs/remotes/origin:
+total 1
+drwxr-xr-x 1 SR 197121  0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121  0 Mar  8 17:49 ../
+-rw-r--r-- 1 SR 197121 30 Mar  8 17:49 HEAD
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ../
+
+./ran2:
+total 4
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:56 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:55 ../
+
+./random1:
+total 5
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:56 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:55 ../
+-rw-r--r-- 1 SR 197121 4 Mar  8 17:55 new.txt
+
+./src:
+total 8
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:55 ../
+drwxr-xr-x 1 SR 197121 0 Mar  8 17:49 GitPractice/
+drwxr-xr-x 1 SR 197121 0 Mar  8 18:10 UnixPractice/
+
+./src/GitPractice:
+total 4
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:49 ./
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:49 ../
+-rw-r--r-- 1 SR 197121 1083 Mar  8 17:49 instructions.txt
+
+./src/UnixPractice:
+total 15
+drwxr-xr-x 1 SR 197121    0 Mar  8 18:10 ./
+drwxr-xr-x 1 SR 197121    0 Mar  8 17:49 ../
+-rw-r--r-- 1 SR 197121    0 Mar  8 18:06 grep
+-rw-r--r-- 1 SR 197121 1172 Mar  8 17:49 instructions.txt
+-rw-r--r-- 1 SR 197121 4004 Mar  8 17:49 lorem.txt
+-rw-r--r-- 1 SR 197121    0 Mar  8 18:10 lsResults.txt
+-rw-r--r-- 1 SR 197121    5 Mar  8 18:01 test-2024-03-08.txt
+-rw-r--r-- 1 SR 197121    2 Mar  8 18:06 wc
+-rwxr-xr-x 1 SR 197121   33 Mar  8 17:58 write.txt*
